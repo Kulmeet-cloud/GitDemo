@@ -9,6 +9,7 @@ public class Test1 {
 			
 			System.out.println("NativeApp");
 			System.out.println("WebApp");
+			System.out.println("IOSApp");
 		}
 			
 		
